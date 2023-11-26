@@ -1,0 +1,1 @@
+Took reference from https://github.com/CheezyCode/QuotifyUsingViewModel.
